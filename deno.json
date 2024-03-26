@@ -1,0 +1,24 @@
+{
+  "tasks": {
+    "dev": "deno run -A npm:vite . --config ./vite.config.mts",
+    "build": "deno run -A npm:vite build . --config ./vite.config.mts",
+    "preview": "deno run -A npm:vite preview . --config ./vite.config.mts",
+    "optimize": "deno run -A npm:vite optimize . --config ./vite.config.mts"
+  },
+  "imports": {
+    "solid-js": "https://esm.sh/solid-js@1.8.16",
+    "solid-js/": "https://esm.sh/solid-js@1.8.16/",
+    "solid-js/web": "https://esm.sh/solid-js@1.8.16/web",
+    "@solidjs/router": "https://esm.sh/@solidjs/router@0.13.1",
+    "@solidjs/router/": "https://esm.sh/@solidjs/router@0.13.1/",
+    "tailwindcss": "https://esm.sh/tailwindcss",
+    "postcss": "https://esm.sh/postcss",
+    "autoprefixer": "https://esm.sh/autoprefixer"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "solid-js",
+    "lib": ["dom", "deno.ns"],
+    "types": ["vite/client"]
+  }
+}
