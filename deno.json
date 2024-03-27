@@ -6,10 +6,10 @@
     "optimize": "deno run -A npm:vite optimize . --config ./vite.config.mts"
   },
   "imports": {
-    "solid-js": "https://esm.sh/solid-js@1.8.16",
+    "solid-js": "https://esm.sh/solid-js@1.8.16?target=esnext&dev",
     "solid-js/": "https://esm.sh/solid-js@1.8.16/",
-    "solid-js/web": "https://esm.sh/solid-js@1.8.16/web",
-    "@solidjs/router": "https://esm.sh/@solidjs/router@0.13.1",
+    "solid-js/web": "https://esm.sh/solid-js@1.8.16/web?target=esnext",
+    "@solidjs/router": "https://esm.sh/@solidjs/router@0.13.1?target=esnext",
     "@solidjs/router/": "https://esm.sh/@solidjs/router@0.13.1/",
     "tailwindcss": "https://esm.sh/tailwindcss",
     "postcss": "https://esm.sh/postcss",

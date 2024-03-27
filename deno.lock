@@ -1847,11 +1847,15 @@
     "https://deno.land/x/vite_deno_plugin@v0.9.4/src/urlImportPlugin.ts": "6d38633a05b2ecd4e700cb3a3d90010c30247cf4e99789c9e5d3c2cd9e224644",
     "https://deno.land/x/vite_deno_plugin@v0.9.4/src/utils.ts": "12e8c722ba25913faad24cf474fed692aab2c75be42eaf8314ed4babcfb202aa",
     "https://esm.sh/@solidjs/router@0.13.1": "c5561b2a6d322d2e4df145280a1ad08e175df14165a34ab4d3583d23ba8f4cb6",
+    "https://esm.sh/@solidjs/router@0.13.1?target=esnext": "444055c5a50cd8f261cfeefff31c9f6b3510df86ebcba48788d1c08170277098",
     "https://esm.sh/solid-js@1.8.16/jsx-runtime": "037bf7e818b2bc795993a9f0fdecf3da2277327092768e41a8ab8517d1acb7c9",
     "https://esm.sh/solid-js@1.8.16/web": "611cb687e95d69a7f9902196636dfc0ac030e72678080d7efcf73787d3e8dbf3",
     "https://esm.sh/stable/solid-js@1.8.15/denonext/solid-js.mjs": "7d389004b8f8d9da0e33df9a299c737eab7f649c9d12a74f51abc727aece578b",
     "https://esm.sh/stable/solid-js@1.8.15/denonext/store.js": "2a2c3dd9d59f1b248d782567e7808b66a20bfaf227b1e54d4e400b564a18e473",
     "https://esm.sh/stable/solid-js@1.8.15/denonext/web.js": "b694e44c385a41b8965093af13ccd5992c0a8c5853cd3602839b91d8199f12d7",
+    "https://esm.sh/stable/solid-js@1.8.15/esnext/solid-js.mjs": "f3e20eabcc4ec5d6e05e4f7ba3a1abf0e3bc904037b59b814587b8743ccefe5e",
+    "https://esm.sh/stable/solid-js@1.8.15/esnext/store.js": "3c947fedb5713e7ba40a6037cfe499de5f0767dbdf7d429552d6e334a97979ed",
+    "https://esm.sh/stable/solid-js@1.8.15/esnext/web.js": "b3b21d2d192b29197ea553677d40f7153ac1ee08eb09aa989803c4e68c73dbf5",
     "https://esm.sh/stable/solid-js@1.8.16/denonext/jsx-runtime.js": "f11c1b184d8ef250c22ece9d2ff60e7912c607bd049e1f6284adf1f9700a3934",
     "https://esm.sh/stable/solid-js@1.8.16/denonext/solid-js.mjs": "0c3d2fb79cdfe9d8e6ce26404fa7717a8bcf122a9ce6c7799554d0f9f24619e6",
     "https://esm.sh/stable/solid-js@1.8.16/denonext/web.js": "c9e0de660d0941fd87aa76e30ff882549043a902eab812cfa7ca92b694ba7ae8",
@@ -1861,6 +1865,7 @@
     "https://esm.sh/v135/@solidjs/router@0.13.1/denonext/dist/routers/components.jsx.js": "2eb1b0492f32c38c554baabd117d6fe5a6a7af9fd02f21d32c9b0c8749ceddf6",
     "https://esm.sh/v135/@solidjs/router@0.13.1/denonext/router.mjs": "e140a4e0ed9a30f34e83f18add92fcfbbe8233a58c7e25338a3fcab9cf9a848a",
     "https://esm.sh/v135/@solidjs/router@0.13.1/dist/components.jsx": "50716e1d42766e65dbb2581a27669459810b7ba003f04adaabbcb7c70590a116",
-    "https://esm.sh/v135/@solidjs/router@0.13.1/dist/routers/components.jsx": "0d6678f34494ce8a613a26037192ddd35bad3ec1e34b630f908f29c028c78062"
+    "https://esm.sh/v135/@solidjs/router@0.13.1/dist/routers/components.jsx": "0d6678f34494ce8a613a26037192ddd35bad3ec1e34b630f908f29c028c78062",
+    "https://esm.sh/v135/@solidjs/router@0.13.1/esnext/router.mjs": "f34c0abc120deadfa15684f1c95522d81f44e958b92ff95e40cf78b13e72fa47"
   }
 }
