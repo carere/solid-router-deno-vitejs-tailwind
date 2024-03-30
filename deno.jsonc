@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "rxjs": "https://esm.sh/rxjs@7.8.1"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "https://esm.sh/solid-js@1.8.16",
+    "lib": ["dom", "deno.ns"],
+    "types": ["vite/client"]
+  }
+}

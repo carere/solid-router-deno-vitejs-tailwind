@@ -1,14 +1,18 @@
 import { ComponentProps } from "solid-js";
 import { render } from "solid-js/web";
 import { Route, Router } from "@solidjs/router";
+import { Subject } from "rxjs";
 import "./main.css";
 
 import Home from "./pages/Home.tsx";
 import Users from "./pages/User.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
+const s = new Subject();
+s.subscribe((value) => console.log(value));
+
 const App = (props: ComponentProps<"main">) => (
-  <main>
+  <main onClick={() => s.next(42)}>
     <nav>
       <a href="/user">User</a>
       <a href="/">Home</a>

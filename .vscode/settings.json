@@ -55,6 +55,8 @@
     ":\\s*?[\"'`]([^\"'`]*).*?,"
   ],
   "cSpell.words": [
+    "autoname",
+    "cssnano",
     "solidjs",
     "tailwindcss",
     "wouter"
